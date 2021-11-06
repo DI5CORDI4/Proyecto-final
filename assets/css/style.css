@@ -1,0 +1,23 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: rgba(94, 116, 93, 0.651);
+}
+.logo{
+    font-family: 'Mohave', sans-serif;
+    font-size: 600;
+}
+.bg-sh{
+    background-color: rgba(85, 107, 47, 0.205);
+}
+h3{
+    font-family: 'Mohave', sans-serif;
+    font-size: 500;  
+}
+.card{
+    box-shadow: 0.130em 0.25em 0.125em rgba(53, 70, 24, 0.301);
+}
+.form-plant, hr{
+    background-color: darkolivegreen;
+}
